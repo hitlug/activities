@@ -10,5 +10,6 @@
 | emacs 的简单配置                                            | 2020.03.29 | 线上 | 由袁龙云(@dustincys)主持，[录像](http://mirrors.hit.edu.cn/hitlug/emacs%20%E7%9A%84%E7%AE%80%E5%8D%95%E9%85%8D%E7%BD%AE.mp4)                                                                                           |
 | 正则表达式 regex 介绍                                       | 2020.04.05 | 线上 | 由@leylee 主持，[课件](http://mirrors.hit.edu.cn/hitlug/regex%20%E4%BB%8B%E7%BB%8D.pdf)，[录像](http://mirrors.hit.edu.cn/hitlug/regex%20%E4%BB%8B%E7%BB%8D.mp4)                                                       |
 | 微纳卫星&开源                                               | 2020.04.12 | 线上 | 由黄家和主持，[课件](http://mirrors.hit.edu.cn/hitlug/%E5%BE%AE%E7%BA%B3%E5%8D%AB%E6%98%9F%E5%BC%80%E6%BA%90.pdf)，[录像](http://mirrors.hit.edu.cn/hitlug/%E5%BE%AE%E7%BA%B3%E5%8D%AB%E6%98%9F%E5%BC%80%E6%BA%90.mp4) |
+| 开源软件在虚拟网络与 DN42 中的应用                          | 2020.04.19 | 线上 | 由陈天宇(@billchenchina)主持，[课件](http://mirrors.hit.edu.cn/hitlug/dn42-introduction.pdf)，[录像](http://mirrors.hit.edu.cn/hitlug/dn42-introduction.mp4) |
 
 本仓库采用 [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) 进行授权。

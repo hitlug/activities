@@ -14,7 +14,9 @@
 | 2020 秋开学研讨                                             | 2020.10.04 | 正心 203 |                                                                                                                                                                                                                        |
 | 软件自由日 2020                                             | 2020.10.18 | B111     | HITLUG 与 HITMSC 共同举办                                                                                                                                                                                              |
 | 关于一款“三维动画”软件 (Blender) 跨圈承包其他工作的这档事   | 2020.12.13 | 正心 303 | 由冯紫麒(@FZQ0003)主持，[课件](http://mirrors.hit.edu.cn/hitlug/blender.pdf)，[录像](http://mirrors.hit.edu.cn/hitlug/blender.mp4)                                                                                     |
-| 网络协议简介与 Linux 网络应用                                |  2021.4.9 | 正心 210 | 由袁龙云(@mortis-0)主持 |
-| 技术培训-版本控制系统介绍与应用                               | 2021.4.10 | B506 | 由陈天宇(@billchenchina)主持 |
+| 网络协议简介与 Linux 网络应用                               | 2021.04.09 | 正心 210 | 由袁龙云(@mortis-0)主持                                                                                                                                                                                                |
+| 技术培训-版本控制系统介绍与应用                             | 2021.04.10 | B506     | 由陈天宇(@billchenchina)主持                                                                                                                                                                                           |
+| 第一次 web 技术培训                                         | 2021.05.16 | B406     | 由张世豪 (@zsh2517) 主讲                                                                                                                                                                                               |
+| HITLUG Talk#9 密码学入门与 Key signing party                | 2021.05.21 | 正心 221 | 由陈天宇(@billchenchina)主持                                                                                                                                                                                           |
 
 本仓库采用 [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) 进行授权。

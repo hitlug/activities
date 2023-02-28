@@ -19,5 +19,6 @@
 | 第一次 web 技术培训                                         | 2021.05.16 | B406     | 由张世豪 (@zsh2517) 主讲，[课件](http://mirrors.hit.edu.cn/hitlug/WebClass-1.pdf)，[录像](https://www.bilibili.com/video/BV1jq4y1E7ad)                                                                                 |
 | HITLUG Talk#9 密码学入门与 Key signing party                | 2021.05.21 | 正心 221 | 由陈天宇(@billchenchina)主持，[课件](http://mirrors.hit.edu.cn/hitlug/crypto.pdf)，[录像](http://mirrors.hit.edu.cn/hitlug/crypto.mp4)                                                                                 |
 | 第二次 web 技术培训                                         | 2021.05.22 |          | 由张世豪 (@zsh2517) 主讲，[课件](http://mirrors.hit.edu.cn/hitlug/WebClass-2.pdf)，[录像](https://www.bilibili.com/video/BV1i44y1r7zy)                                                                                                                                                                                               |
+| HITLUG Talk#10 现代体系结构自动向量化 | 2023.02.26 | 由龙英池(@inclyc)主讲 | [课件](?)，[录像](?) |
 
 本仓库采用 [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) 进行授权。
